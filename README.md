@@ -2,12 +2,6 @@
 
 _Sou Bacharel em Ciência e Tecnologia, técnico em Redes de Computadores, acadêmico de Engenharia de Produção e um amante de programação e tecnologia._
 
-<div align='center'>
-  <a href='https://instagram.com/marllef'><img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'></a>
-  <a href='https://www.facebook.com/marllef.alves/'><img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white'></a>
-  <a href='https://github.com/marllef'><img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'></a>
-</div>
-
 ## 🚀 Ferramentas e Tecnologias
 <div align='center'>
   <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
@@ -20,6 +14,12 @@ _Sou Bacharel em Ciência e Tecnologia, técnico em Redes de Computadores, acad�
   <img src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white'>
   <img src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white'>
 </div>
+
+## 🔎🌎Encontre-me na web
+_Eu tenho algumas redes sociais:_
+- 😜 Eu estou no [Facebook](https://www.facebook.com/marllef.alves/).
+- 👉 Também pode me encontrar no [Instagram](https://www.instagram.com/marllef/).
+- 👨‍💻 No Github eu sou o [marllef](http://www.github.com/marllef).
 <!--
 **marllef/marllef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
