@@ -1,6 +1,6 @@
 ## Olá, eu sou o Marllef 👋
 
-_Sou Bacharel em Ciência e Tecnologia, técnico em Redes de Computadores, acadêmico de Engenharia de Produção e um amante de programação e tecnologia._
+_Sou Bacharel em Ciência e Tecnologia, técnico em Redes de Computadores, acadêmico de Engenharia Elétrica e um amante de programação e tecnologia._
 
 ## 🚀 Ferramentas e Tecnologias
 <div align='center'>
