@@ -1,8 +1,13 @@
 ## Olá, eu sou o Marllef 👋
 
-_Sou Bacharel em Ciência e Tecnologia, técnico em Redes de Computadores, acadêmico de Engenharia Elétrica e um amante de programação e tecnologia._
+Sou Bacharel em Ciência e Tecnologia, técnico em Redes de Computadores, acadêmico de Engenharia Elétrica e um apaixonado por tecnologia.
+
+Atuo como Analista de Desenvolvimento na [Widup Technology e Consulting](https://github.com/suporteWidup) desenvolvendo e gerenciando equipes no desenvolvimento de soluções para web e dispositivos móveis.
 
 ## 🚀 Ferramentas e Tecnologias
+
+Estas são algumas das tecnologias que utilizo com maior frequência:
+
 <div align='center'>
   
   ![NextJS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -15,14 +20,16 @@ _Sou Bacharel em Ciência e Tecnologia, técnico em Redes de Computadores, acad�
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   ![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
   
-  <img src='https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white'>
-  <img src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white'>
-  <img src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white'>
+  ![Firebase](https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 </div>
 
-## 🔎🌎Encontre-me na web
-_Eu estou em algumas redes sociais:_
+## 🔎🌎 Encontre-me na web
+_Caso deseje entrar em contato, você pode me encontrar em algumas Redes Sociais:_
 - 😜 Eu estou no [Facebook](https://www.facebook.com/marllef.alves/).
 - 👉 Também pode me encontrar no [Instagram](https://www.instagram.com/marllef/).
-- 👨‍💻 No Github eu sou o [marllef](http://www.github.com/marllef).
+- 👨‍💻 No Linkedin eu sou o [marllef](www.linkedin.com/in/marllef).
