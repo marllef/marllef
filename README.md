@@ -32,4 +32,4 @@ Estas são algumas das tecnologias que utilizo com maior frequência:
 _Caso deseje entrar em contato, você pode me encontrar em algumas redes sociais:_
 - 😜 Eu estou no [Facebook](https://www.facebook.com/marllef.alves/).
 - 👉 Também pode me encontrar no [Instagram](https://www.instagram.com/marllef/).
-- 👨‍💻 No Linkedin eu sou o [marllef](http://www.linkedin.com/in/marllef).
+- 👨‍💻 No [Linkedin](http://www.linkedin.com/in/marllef) eu sou o Marllef.
