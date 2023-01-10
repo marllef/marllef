@@ -2,8 +2,6 @@
 
 Sou Bacharel em Ciência e Tecnologia, técnico em Redes de Computadores, acadêmico de Engenharia Elétrica e um apaixonado por tecnologia.
 
-Atuo como Analista de Desenvolvimento na [Widup Technology e Consulting](https://github.com/suporteWidup) desenvolvendo e gerenciando equipes no desenvolvimento de soluções para web e dispositivos móveis.
-
 ## 🚀 Ferramentas e Tecnologias
 
 Estas são algumas das tecnologias que utilizo com maior frequência:
